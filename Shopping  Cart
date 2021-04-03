@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta nam=e"description" content="My Sweet Cakes Bakery">
+  <meta nam=e"keywords" content="Cakes, Selling, Store, Online">
+  <meta nam=e"author" content="Roman Garnica">
+
+  <title="My Cool Title"</title>
+  <style>
+    div {
+color: orange;
+
+    }
+
+    footer {
+color: blue;
+
+    }
+    @MainProducts{
+    color: purple;
+
+}
+
+  article{
+  color: green;
+  }
+  body{
+  color; red;
+  background-color: white;
+  }
+  .CoolText {
+  color: brown;
+  }
+  </style>
+  <head>
+  <body id="MainBody">
+    <header>
+  <header>
+  <h1>Shopping cart</h1>
+  </header>
+  <main>
+  <span class="CoolText">Please buy my products</span></br>
+  <p>Hi this is my shopping cart, my products are awesome, please buy them or else!</p>
+  </main>
+  <section id="MainProducts">
+  <ol type="A">
+    <li>Product 1</li>
+    <li>Product 2</li>
+    <li>Product 3</li>
+    <li>Product</li>
+    <li>Product</li>
+    </ol>
+    </section>
+
+
+    <footer>
+    <h3>Please contact me to buy my stuff</h3>
+    <button>Click me to contact me</button>
+    </footer>
+
+
+
+
+</body>
+</html>
