@@ -41,7 +41,6 @@ color: blue;
   <main>
   <span class="CoolText">Please buy my products</span></br>
   <p>Hi this is my shopping cart, my products are awesome, please buy them or else!</p>
-  </main>
   <section id="MainProducts">
   <ol type="A">
     <li>Product 1</li>
@@ -60,6 +59,6 @@ color: blue;
 
 
 
-
+</main>
 </body>
 </html>
